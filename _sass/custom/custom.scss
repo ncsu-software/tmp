@@ -1,3 +1,8 @@
+// font-awesome icons in wolfpack red
+.fa-solid, .fa-regular, .fa-brands {
+  color: #CC0000;
+}
+
 // .plain tables (faculty): no borders, no header row, centered pics
 .table-wrapper:has(table.plain) {
   box-shadow: none;

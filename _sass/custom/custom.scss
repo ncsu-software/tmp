@@ -1,3 +1,20 @@
+// .plain tables (faculty): no borders, no header row, centered pics
+.table-wrapper:has(table.plain) {
+  box-shadow: none;
+}
+table.plain {
+  thead { display: none; }
+  td {
+    border: 0;
+    background: none;
+    vertical-align: middle;
+  }
+  td:first-child {
+    text-align: center;
+    min-width: 7rem;
+  }
+}
+
 // sidebar logo: big, and the header must GROW to hold it (the theme
 // pins header height to 4rem, so content overflows onto the nav)
 a.site-title {

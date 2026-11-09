@@ -7,8 +7,6 @@
 <a href="labs.html">labs</a>
 </p>
 
-<img src="img/logo.png" alt="logo" width="280">
-
 <p><small>
 <a href="https://ncsu-softmax.github.io/">SoftMax</a> (Bowen Xu) ·
 <a href="https://jpwco.com/">Robust Robots</a> (John-Paul Ore)<br>
@@ -24,13 +22,13 @@ The Testable Team (Marcelo D'Amorim)<br>
 
 Alphabetical, by first name.
 
-- **Bowen Xu**: [SoftMax](https://ncsu-softmax.github.io/)
-- **John-Paul Ore**: [Robust Robots](https://jpwco.com/)
-- **Katie Stolee**: [The Perspective People](https://kstolee.github.io/)
-- **Marcelo D'Amorim**: The Testable Team
-- **Sandeep Kuttal**: [Human Factors + Experience Engineering Lab
-  (HFXE)](https://skuttal.github.io/skk/research.html)
-- **Sarah Heckman**: [Super SE Teaching Lab](https://sheckman.github.io/)
-- **Tim Menzies**: [Irrational Research](https://timm.fyi/irl.html)
-- **Wesley Klewerton Guez Assunção**: [The Evolve
-  Group](https://wesleyklewerton.github.io/)
+|  |  |
+|--|--|
+| <img src="img/bowen.png" width="40" alt="Bowen Xu"> | **Bowen Xu**: [SoftMax](https://ncsu-softmax.github.io/) |
+| <img src="img/johnpaul.jpg" width="40" alt="John-Paul Ore"> | **John-Paul Ore**: [Robust Robots](https://jpwco.com/) |
+| <img src="img/katie.png" width="40" alt="Katie Stolee"> | **Katie Stolee**: [The Perspective People](https://kstolee.github.io/) |
+| <img src="img/marcelo.png" width="40" alt="Marcelo D'Amorim"> | **Marcelo D'Amorim**: The Testable Team |
+| <img src="img/sandeep.png" width="40" alt="Sandeep Kuttal"> | **Sandeep Kuttal**: [Human Factors + Experience Engineering Lab (HFXE)](https://skuttal.github.io/skk/research.html) |
+| <img src="img/sarah.jpg" width="40" alt="Sarah Heckman"> | **Sarah Heckman**: [Super SE Teaching Lab](https://sheckman.github.io/) |
+| <img src="img/timm.jpg" width="40" alt="Tim Menzies"> | **Tim Menzies**: [Irrational Research](https://timm.fyi/irl.html) |
+| <img src="img/wesley.jpg" width="40" alt="Wesley Assunção"> | **Wesley Assunção**: [The Evolve Group](https://wesleyklewerton.github.io/) |

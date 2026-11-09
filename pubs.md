@@ -7,8 +7,6 @@
 <a href="labs.html">labs</a>
 </p>
 
-<img src="img/logo.png" alt="logo" width="280">
-
 <p><small>
 <a href="https://ncsu-softmax.github.io/">SoftMax</a> (Bowen Xu) ·
 <a href="https://jpwco.com/">Robust Robots</a> (John-Paul Ore)<br>

@@ -1,9 +1,12 @@
 title: NC State Software Engineering
+url: https://ncsu.software
+baseurl: "/tmp"
 remote_theme: just-the-docs/just-the-docs@v0.8.2
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 search_enabled: true
+logo: "/img/logo.png"
 exclude:
   - TODO.md
   - page.md

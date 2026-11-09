@@ -1,7 +1,14 @@
-// bigger sidebar logo: the default site-header is ~60px tall
+// sidebar logo: full sidebar width, square
 .site-header {
-  min-height: 9rem;
+  min-height: 0;
+  max-height: none;
+}
+a.site-title {
+  padding: 0.5rem;
 }
 .site-logo {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  background-size: contain;
   background-position: center;
 }

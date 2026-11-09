@@ -13,18 +13,32 @@
 
 # Software Engineering @ NC State
 
-Who we are, what we build, and what's new.
+By research output, the **#3 software engineering group in the
+United States**
+([CSRankings](https://csrankings.org/#/index?soft&us), 2014&ndash;24);
+**#11** in the
+[U.S. News](https://csc.ncsu.edu/2025/10/ncstatecs-software-engineering-program-shine-in-latest-u-s-news-rankings/)
+undergraduate software engineering rankings (2026, up from #17).
 
 ## News
 
-(opening-page highlights go here: latest paper, with graphic and a
-one-paragraph summary, then a link to [pubs](pubs.md))
+(3 items max, newest first, each one sentence a dean could forward
+unchanged; lead with the latest paper: graphic + one para, then a
+link to [pubs](pubs.md))
 
 More: [news archive](news.md).
 
+## Honors
+
+(receipts only: best papers, test-of-time awards, fellowships,
+editorial boards, PC chairs, keynotes — 3 to 5 lines)
+
 ## Faculty
 
-Photos and one-paragraph bios: [faculty](faculty.md).
+(each name + one claim-to-fame clause, e.g. "NAME, known for X";
+details on their own pages)
+
+More: [faculty](faculty.md).
 
 ## Students
 

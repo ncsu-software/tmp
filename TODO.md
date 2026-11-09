@@ -17,6 +17,15 @@ Ground rules: pure markdown, nothing elaborate — if this succeeds,
 the communications dept will redo everything. Front-page (p1)
 sections must be short, all markdown.
 
+Audience (in order): deans, journalists, visiting committees.
+Situation: no funding, high reputation; the page's job is to raise
+reputation with the dean etc. So: receipts, not adjectives. Story =
+"output without inputs". Content needed from faculty:
+- 3-5 honors receipts (best papers, test-of-time, fellowships,
+  editorial boards, PC chairs, keynotes)
+- one claim-to-fame clause per faculty member
+- news items phrased so a dean can forward them unchanged
+
 ## 1. logo (first)
 300x300-ish, clean professional, SE+AI, human-in-the-loop:
 humans checking AI. TRANSPARENT background (site is white, so no

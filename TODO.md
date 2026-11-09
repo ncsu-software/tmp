@@ -9,6 +9,17 @@
 [students](students.md) ·
 [labs](labs.md)
 
+<small>
+[Irrational Research](https://timm.fyi/irl.html) (Tim Menzies) ·
+[HFXE](https://skuttal.github.io/skk/research.html) (Sandeep Kuttal) ·
+[SoftMax](https://ncsu-softmax.github.io/) (Bowen Xu) ·
+The Testable Team (Marcello d'Amorim) ·
+[The Perspective People](https://kstolee.github.io/) (Katie Stolee) ·
+[Robust Robots](https://jpwco.com/) (John-Paul Ore) ·
+[Super SE Teaching Lab](https://sheckman.github.io/) (Sarah Heckman) ·
+[The Evolve Group](https://wesleyklewerton.github.io/) (Wesley Assunção)
+</small>
+
 </div>
 
 # TODO (queued 2026-11-09)

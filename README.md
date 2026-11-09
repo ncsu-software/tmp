@@ -1,6 +1,4 @@
-<p align="center"><img src="img/logo.png" alt="logo" width="280"></p>
-
-<div align="center">
+<img src="img/logo.png" alt="logo" width="280">
 
 [home](README.md) ·
 [news](news.md) ·
@@ -9,7 +7,16 @@
 [students](students.md) ·
 [labs](labs.md)
 
-</div>
+<small>
+[Irrational Research](https://timm.fyi/irl.html) (Tim Menzies) ·
+[HFXE](https://skuttal.github.io/skk/research.html) (Sandeep Kuttal) ·
+[SoftMax](https://ncsu-softmax.github.io/) (Bowen Xu) ·
+The Testable Team (Marcello d'Amorim) ·
+[The Perspective People](https://kstolee.github.io/) (Katie Stolee) ·
+[Robust Robots](https://jpwco.com/) (John-Paul Ore) ·
+[Super SE Teaching Lab](https://sheckman.github.io/) (Sarah Heckman) ·
+[The Evolve Group](https://wesleyklewerton.github.io/) (Wesley Assunção)
+</small>
 
 # Software Engineering @ NC State
 
@@ -46,13 +53,4 @@ What our students have been winning lately: [students](students.md).
 
 ## Labs
 
-[Irrational Research](https://timm.fyi/irl.html) ·
-[HFXE](https://skuttal.github.io/skk/research.html) ·
-[SoftMax](https://ncsu-softmax.github.io/) ·
-The Testable Team ·
-[The Perspective People](https://kstolee.github.io/) ·
-[Robust Robots](https://jpwco.com/) ·
-[Super SE Teaching Lab](https://sheckman.github.io/) ·
-[The Evolve Group](https://wesleyklewerton.github.io/)
-
-More: [labs](labs.md).
+Eight labs, eight flavors of better software: [labs](labs.md).

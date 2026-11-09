@@ -1,44 +1,25 @@
 
-# TODO (queued 2026-11-09)
-
-Ground rules: pure markdown, nothing elaborate — if this succeeds,
-the communications dept will redo everything. Front-page (p1)
-sections must be short, all markdown.
+# TODO
 
 Audience (in order): deans, journalists, visiting committees.
-Situation: no funding, high reputation; the page's job is to raise
-reputation with the dean etc. So: receipts, not adjectives. Story =
-"output without inputs". Content needed from faculty:
-- 3-5 honors receipts (best papers, test-of-time, fellowships,
-  editorial boards, PC chairs, keynotes)
-- one claim-to-fame clause per faculty member
-- news items phrased so a dean can forward them unchanged
+Receipts, not adjectives. Pure markdown; comms dept redoes it all
+if this works.
 
-## 1. logo (first)
-300x300-ish, clean professional, SE+AI, human-in-the-loop:
-humans checking AI. TRANSPARENT background (site is white, so no
-white box). (prompt drafted; generate via chatgpt image)
+## done (2026-11-09)
+logo; theme (just-the-docs + wolfpack red + search); sidebar nav;
+faculty page w/ headshots+bios; labs fused into faculty; pubs (1
+per faculty); ai.html (5 themes); student life (HFXE + Evolve +
+photos); p1 news/honors with real receipts; local preview (make
+view); Drive intray->done workflow.
 
-## 2. news
-- opening-page highlights; section ends with a "news archive" link
-  -> news archive page
-- find the latest paper from SE faculty: graphic + 1 para, then a
-  link to pubs/pap.md
-
-## 3. faculty
-- faculty.md, alpha order on FIRST name, pic + 1 para each
-
-## 4. students
-- student achievements
-
-## 5. labs
-- timm: irrational research           https://timm.fyi/irl.html
-- sandeep (Kuttal): Human Factors + Experience Engineering Lab
-  (HFXE)                              https://skuttal.github.io/skk/research.html
-- bowen: softmax                      https://ncsu-softmax.github.io/
-- marcello: the testable team
-- Katie Stolee: the perspective people https://kstolee.github.io/
-- John-Paul: Robust Robots            https://jpwco.com/
-- sarah heckman: super SE teaching lab https://sheckman.github.io/
-- Wesley Klewerton Guez Assuncao: the evolve group
-                                      https://wesleyklewerton.github.io/
+## open
+- claim-to-fame clause per faculty on p1 (needs faculty input)
+- bios: each prof edits their own paragraph on faculty.html
+- student life: six labs still owe wins (intray!)
+- Marcelo: Testable Team has no URL
+- Wesley: still owes ICSE 25/26 lab-member photos
+- news archive + honors: start accumulating dated entries
+- undecided intray items: tim_idea1 (comms strategy), bowen_idea1
+  (poster per lab), bowen_idea4 (adopt his preview/Google form?),
+  marcelo_idea3 (anti-self-promotion tone check), marcelo_idea6
+  (give page; needs gift account)

@@ -1,0 +1,93 @@
+{"0": {
+    "doc": "Home",
+    "title": "Software Engineering @ NC State",
+    "content": "SoftMax (Bowen Xu) · Robust Robots (John-Paul Ore) The Perspective People (Katie Stolee) · The Testable Team (Marcelo D'Amorim) HFXE (Sandeep Kuttal) · Super SE Teaching Lab (Sarah Heckman) Irrational Research (Tim Menzies) · The Evolve Group (Wesley Assunção) . | by the numbers | study with us | work with us | . | By research output, a top-five SE group in the US (CSRankings); #3 over 2014–24. #11 US News undergrad SE (2026, up from #17). | Eight labs, one question: how to build better software. Pick your people: faculty. (ADD: how to apply / join) | (ADD: tools and datasets you can download today.) Every faculty email is one click away — talk to us. | . ",
+    "url": "/tmp/#software-engineering--nc-state",
+    
+    "relUrl": "/#software-engineering--nc-state"
+  },"1": {
+    "doc": "Home",
+    "title": "News",
+    "content": "(3 items max, newest first, each one sentence a dean could forward unchanged; lead with the latest paper: graphic + one para, then a link to pubs) . More: news archive. ",
+    "url": "/tmp/#news",
+    
+    "relUrl": "/#news"
+  },"2": {
+    "doc": "Home",
+    "title": "Honors",
+    "content": "(receipts only: best papers, test-of-time awards, fellowships, editorial boards, PC chairs, keynotes — 3 to 5 lines) . ",
+    "url": "/tmp/#honors",
+    
+    "relUrl": "/#honors"
+  },"3": {
+    "doc": "Home",
+    "title": "Faculty &amp; Labs",
+    "content": "Eight labs, eight flavors of better software. Faces, emails, and one paragraph each: faculty. ",
+    "url": "/tmp/#faculty--labs",
+    
+    "relUrl": "/#faculty--labs"
+  },"4": {
+    "doc": "Home",
+    "title": "Students",
+    "content": "What our students have been winning lately: students. ",
+    "url": "/tmp/#students",
+    
+    "relUrl": "/#students"
+  },"5": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/tmp/",
+    
+    "relUrl": "/"
+  },"6": {
+    "doc": "Faculty & Labs",
+    "title": "Faculty &amp; Labs",
+    "content": "Alphabetical, by first name. (Bios are drafts — each prof should edit their own paragraph.) . |   |   | . | | Bowen Xu (bxu22@ncsu.edu) runs SoftMax: AI for software engineering — mining software repositories and building code intelligence tools that read, write, and review code. | . | | John-Paul Ore (jwore@ncsu.edu) runs Robust Robots: the software side of robotics — finding and fixing the bugs (like physical-unit mismatches) that make real machines fail in the real world. | . | | Katie Stolee (ktstolee@ncsu.edu) runs The Perspective People: how developers search, understand, and reuse code — and tools that do it better, from semantic code search to program repair. | . | | Marcelo D’Amorim (mdamori@ncsu.edu) runs The Testable Team: software testing and reliability — systematic testing, debugging, and the fight against flaky tests. | . | | Sandeep Kuttal (skuttal@ncsu.edu) runs the Human Factors + Experience Engineering Lab (HFXE): the human side of programming — how developers work, and how human-AI partnership can make them better. | . | | Sarah Heckman (sarah_heckman@ncsu.edu) runs the Super SE Teaching Lab: computing education research — evidence-based ways to teach software engineering at scale. | . | | Tim Menzies (timm@ieee.org) runs Irrational Research: frugal, explainable AI for software engineering — a good guess from a few dozen labels, plus the MOOT benchmark corpus. | . | | Wesley Assunção (wguezas@ncsu.edu) runs The Evolve Group: how big software evolves — product lines, variability, and modernizing legacy systems. | . ",
+    "url": "/tmp/faculty.html#faculty--labs",
+    
+    "relUrl": "/faculty.html#faculty--labs"
+  },"7": {
+    "doc": "Faculty & Labs",
+    "title": "Faculty & Labs",
+    "content": " ",
+    "url": "/tmp/faculty.html",
+    
+    "relUrl": "/faculty.html"
+  },"8": {
+    "doc": "News",
+    "title": "News Archive",
+    "content": "(dated entries, newest first; the front page shows only the latest few, this page keeps them all) . ",
+    "url": "/tmp/news.html#news-archive",
+    
+    "relUrl": "/news.html#news-archive"
+  },"9": {
+    "doc": "News",
+    "title": "News",
+    "content": " ",
+    "url": "/tmp/news.html",
+    
+    "relUrl": "/news.html"
+  },"10": {
+    "doc": "Publications",
+    "title": "Publications",
+    "content": "(latest paper from SE faculty: graphic + one paragraph, newest first) . ",
+    "url": "/tmp/pubs.html",
+    
+    "relUrl": "/pubs.html"
+  },"11": {
+    "doc": "Students",
+    "title": "Student Achievements",
+    "content": "(what our students have been winning lately) . ",
+    "url": "/tmp/students.html#student-achievements",
+    
+    "relUrl": "/students.html#student-achievements"
+  },"12": {
+    "doc": "Students",
+    "title": "Students",
+    "content": " ",
+    "url": "/tmp/students.html",
+    
+    "relUrl": "/students.html"
+  }
+}

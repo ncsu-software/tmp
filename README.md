@@ -1,11 +1,7 @@
-<p>
-<a href="./">home</a> ·
-<a href="news.html">news</a> ·
-<a href="pubs.html">pubs</a> ·
-<a href="faculty.html">faculty</a> ·
-<a href="students.html">students</a> ·
-<a href="labs.html">labs</a>
-</p>
+---
+title: Home
+nav_order: 1
+---
 
 <p><small>
 <a href="https://ncsu-softmax.github.io/">SoftMax</a> (Bowen Xu) ·
@@ -58,4 +54,5 @@ What our students have been winning lately: [students](students.html).
 
 ## Labs
 
-Eight labs, eight flavors of better software: [labs](labs.html).
+Eight labs, eight flavors of better software: [labs](labs.html) —
+and the people behind them: [faculty](faculty.html).

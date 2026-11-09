@@ -1,11 +1,7 @@
-<p>
-<a href="./">home</a> ·
-<a href="news.html">news</a> ·
-<a href="pubs.html">pubs</a> ·
-<a href="faculty.html">faculty</a> ·
-<a href="students.html">students</a> ·
-<a href="labs.html">labs</a>
-</p>
+---
+title: Faculty
+nav_order: 4
+---
 
 <p><small>
 <a href="https://ncsu-softmax.github.io/">SoftMax</a> (Bowen Xu) ·
@@ -20,4 +16,16 @@ The Testable Team (Marcelo D'Amorim)<br>
 
 # Faculty
 
-Alphabetical, by first name. Pic and one paragraph each.
+Alphabetical, by first name. (Bios are drafts — each prof should
+edit their own paragraph.)
+
+|  |  |
+|--|--|
+| <img src="img/bowen.png" width="40" alt="Bowen Xu"> | **Bowen Xu** (bxu22@ncsu.edu) runs [SoftMax](https://ncsu-softmax.github.io/): AI for software engineering — mining software repositories and building code intelligence tools that read, write, and review code. |
+| <img src="img/johnpaul.jpg" width="40" alt="John-Paul Ore"> | **John-Paul Ore** (jwore@ncsu.edu) runs [Robust Robots](https://jpwco.com/): the software side of robotics — finding and fixing the bugs (like physical-unit mismatches) that make real machines fail in the real world. |
+| <img src="img/katie.png" width="40" alt="Katie Stolee"> | **Katie Stolee** (ktstolee@ncsu.edu) runs [The Perspective People](https://kstolee.github.io/): how developers search, understand, and reuse code — and tools that do it better, from semantic code search to program repair. |
+| <img src="img/marcelo.png" width="40" alt="Marcelo D'Amorim"> | **Marcelo D'Amorim** (mdamori@ncsu.edu) runs The Testable Team: software testing and reliability — systematic testing, debugging, and the fight against flaky tests. |
+| <img src="img/sandeep.png" width="40" alt="Sandeep Kuttal"> | **Sandeep Kuttal** (skuttal@ncsu.edu) runs the [Human Factors + Experience Engineering Lab (HFXE)](https://skuttal.github.io/skk/research.html): the human side of programming — how developers work, and how human-AI partnership can make them better. |
+| <img src="img/sarah.jpg" width="40" alt="Sarah Heckman"> | **Sarah Heckman** (sarah_heckman@ncsu.edu) runs the [Super SE Teaching Lab](https://sheckman.github.io/): computing education research — evidence-based ways to teach software engineering at scale. |
+| <img src="img/timm.jpg" width="40" alt="Tim Menzies"> | **Tim Menzies** (timm@ieee.org) runs [Irrational Research](https://timm.fyi/irl.html): frugal, explainable AI for software engineering — a good guess from a few dozen labels, plus the [MOOT](https://github.com/timm/moot) benchmark corpus. |
+| <img src="img/wesley.jpg" width="40" alt="Wesley Assunção"> | **Wesley Assunção** (wguezas@ncsu.edu) runs [The Evolve Group](https://wesleyklewerton.github.io/): how big software evolves — product lines, variability, and modernizing legacy systems. |

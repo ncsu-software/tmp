@@ -1,11 +1,7 @@
-<p>
-<a href="./">home</a> ·
-<a href="news.html">news</a> ·
-<a href="pubs.html">pubs</a> ·
-<a href="faculty.html">faculty</a> ·
-<a href="students.html">students</a> ·
-<a href="labs.html">labs</a>
-</p>
+---
+title: News
+nav_order: 2
+---
 
 <p><small>
 <a href="https://ncsu-softmax.github.io/">SoftMax</a> (Bowen Xu) ·

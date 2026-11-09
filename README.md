@@ -25,11 +25,6 @@ The Testable Team (Marcelo D'Amorim)<br>
 |------|--------|
 | (3 items max, newest first, each one sentence a dean could forward unchanged; lead with the latest paper: graphic + one para, then a link to [pubs](pubs.html)) More: [news archive](news.html). | (receipts only: best papers, test-of-time awards, fellowships, editorial boards, PC chairs, keynotes — 3 to 5 lines) |
 
-## Faculty & Labs
+## Student Life
 
-Eight labs, eight flavors of better software. Faces, emails, and
-one paragraph each: [faculty](faculty.html).
-
-## Students
-
-What our students have been winning lately: [students](students.html).
+What our students have been winning lately: [student life](students.html).

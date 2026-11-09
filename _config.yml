@@ -1,2 +1,9 @@
 title: NC State Software Engineering
-theme: jekyll-theme-primer
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+search_enabled: true
+exclude:
+  - TODO.md
+  - page.md
+  - Makefile

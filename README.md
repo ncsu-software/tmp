@@ -1,31 +1,30 @@
+<p>
+<a href="./">home</a> ·
+<a href="news.html">news</a> ·
+<a href="pubs.html">pubs</a> ·
+<a href="faculty.html">faculty</a> ·
+<a href="students.html">students</a> ·
+<a href="labs.html">labs</a>
+</p>
+
 <img src="img/logo.png" alt="logo" width="280">
 
-[home](README.md) ·
-[news](news.md) ·
-[pubs](pubs.md) ·
-[faculty](faculty.md) ·
-[students](students.md) ·
-[labs](labs.md)
-
-<small>
-[Irrational Research](https://timm.fyi/irl.html) (Tim Menzies) ·
-[HFXE](https://skuttal.github.io/skk/research.html) (Sandeep Kuttal) ·
-[SoftMax](https://ncsu-softmax.github.io/) (Bowen Xu) ·
-The Testable Team (Marcello d'Amorim) ·
-[The Perspective People](https://kstolee.github.io/) (Katie Stolee) ·
-[Robust Robots](https://jpwco.com/) (John-Paul Ore) ·
-[Super SE Teaching Lab](https://sheckman.github.io/) (Sarah Heckman) ·
-[The Evolve Group](https://wesleyklewerton.github.io/) (Wesley Assunção)
-</small>
+<p><small>
+<a href="https://timm.fyi/irl.html">Irrational Research</a> (Tim Menzies) ·
+<a href="https://skuttal.github.io/skk/research.html">HFXE</a> (Sandeep Kuttal) ·
+<a href="https://ncsu-softmax.github.io/">SoftMax</a> (Bowen Xu) ·
+The Testable Team (Marcelo D'Amorim) ·
+<a href="https://kstolee.github.io/">The Perspective People</a> (Katie Stolee) ·
+<a href="https://jpwco.com/">Robust Robots</a> (John-Paul Ore) ·
+<a href="https://sheckman.github.io/">Super SE Teaching Lab</a> (Sarah Heckman) ·
+<a href="https://wesleyklewerton.github.io/">The Evolve Group</a> (Wesley Assunção)
+</small></p>
 
 # Software Engineering @ NC State
 
-By research output, the **#3 software engineering group in the
-United States**
-([CSRankings](https://csrankings.org/#/index?soft&us), 2014&ndash;24);
-**#11** in the
-[U.S. News](https://csc.ncsu.edu/2025/10/ncstatecs-software-engineering-program-shine-in-latest-u-s-news-rankings/)
-undergraduate software engineering rankings (2026, up from #17).
+| deans · press · committees | future students | industry · partners |
+|----------------------------|-----------------|----------------------|
+| By research output, a **top-five SE group in the US** ([CSRankings](https://csrankings.org/#/index?soft&us)); [**#3** over 2014&ndash;24](https://csc.ncsu.edu/2025/10/ncstatecs-software-engineering-program-shine-in-latest-u-s-news-rankings/). **#11** US News undergrad SE (2026, up from #17). | Eight [labs](labs.md), one question: how to build better software. Pick your people: [faculty](faculty.md). (ADD: how to apply / join) | (ADD: tools and datasets you can download today.) Every [faculty](faculty.md) email is one click away &mdash; talk to us. |
 
 ## News
 
@@ -42,8 +41,16 @@ editorial boards, PC chairs, keynotes — 3 to 5 lines)
 
 ## Faculty
 
-(each name + one claim-to-fame clause, e.g. "NAME, known for X";
-details on their own pages)
+(add one claim-to-fame clause per name; details on their own pages)
+
+- Bowen Xu, bxu22@ncsu.edu
+- John-Paul Ore, jwore@ncsu.edu
+- Katie Stolee, ktstolee@ncsu.edu
+- Marcelo D'Amorim, mdamori@ncsu.edu
+- Sandeep Kuttal, skuttal@ncsu.edu
+- Sarah Heckman, sarah_heckman@ncsu.edu
+- Tim Menzies, timm@ieee.org
+- Wesley Assunção, wguezas@ncsu.edu
 
 More: [faculty](faculty.md).
 

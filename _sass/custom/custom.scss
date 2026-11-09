@@ -1,14 +1,17 @@
-// sidebar logo: full sidebar width, square
-.site-header {
-  min-height: 0;
-  max-height: none;
-}
+// sidebar logo: explicit size (the theme's height:100% collapses it)
 a.site-title {
   padding: 0.5rem;
 }
 .site-logo {
-  width: 100%;
-  aspect-ratio: 1 / 1;
-  background-size: contain;
   background-position: center;
+}
+@media (min-width: 50rem) {
+  .site-header {
+    min-height: 0;
+    max-height: none;
+  }
+  .site-logo {
+    width: 100%;
+    height: 15rem;
+  }
 }

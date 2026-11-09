@@ -12,6 +12,10 @@ pull: ## download
 push: ## save
 	echo -en "\033[33mWhy this push? \033[0m"; read x; git commit -am "$$x"; git push; git status
 
+view: ## build+serve locally, open browser on the top page
+	( sleep 3; open http://127.0.0.1:4000/tmp/ ) &
+	PATH="/opt/homebrew/opt/ruby@3.3/bin:$$PATH" bundle exec jekyll serve
+
 all: ## stamp README's header (after front matter, before first h1) on every *.md
 	for f in *.md; do \
 	  [ "$$f" = "README.md" ] && continue; \

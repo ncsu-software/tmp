@@ -1,7 +1,8 @@
 title: NC State Software Engineering
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.8.2
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 search_enabled: true
 exclude:
   - TODO.md

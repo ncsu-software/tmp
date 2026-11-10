@@ -115,4 +115,5 @@ img.headshot {
   width: 100px;
   height: 100px;
   object-fit: cover;
+  object-position: center top; // tall portraits: keep the head, crop the torso
 }

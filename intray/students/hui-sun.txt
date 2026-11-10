@@ -1,16 +1,19 @@
 Name:  Hui Sun
 Lab:   The Evolve Group (Wesley Assunção)
 
-TODO (please fill in, then send this file + photo back):
+TODO (please edit this file in place):
 
-1. Photo: include a square head-and-shoulders shot
+1. Name: make sure your first and family name appear on line 1.
+
+2. Photo: add a photo next to this .txt file, in this directory.
+   Make it a square head-and-shoulders shot
    (e.g. hui-sun.jpg, at least 240x240).
 
-2. About you: 4 to 10 lines about yourself
+3. About you: 4 to 10 lines about yourself
    (what you work on, where you came from, what you do for fun).
 
 <your 4-10 lines here>
 
-3. Web page: include a URL link if you have a web page.
+4. Web page: include a URL link if you have a web page.
 
 URL:

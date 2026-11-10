@@ -1,6 +1,6 @@
 ---
 title: Faculty & Labs
-nav_order: 5
+nav_order: 6
 ---
 
 # <i class="fa-solid fa-people-group"></i> Faculty & Labs
@@ -16,6 +16,6 @@ edit their own paragraph.)
 | <img src="img/marcelo.png" width="100" alt="Marcelo D'Amorim"> | **Marcelo D'Amorim** (mdamori@ncsu.edu) runs The Testable Team: software testing and reliability — systematic testing, debugging, and the fight against flaky tests. |
 | <img src="img/sandeep.png" width="100" alt="Sandeep Kuttal"> | **Sandeep Kuttal** (skuttal@ncsu.edu) runs the [Human Factors + Experience Engineering Lab (HFXE)](https://skuttal.github.io/skk/research.html): the human side of programming — how developers work, and how human-AI partnership can make them better. |
 | <img src="img/sarah.jpg" width="100" alt="Sarah Heckman"> | **Sarah Heckman** (sarah_heckman@ncsu.edu) runs the [Super SE Teaching Lab](https://sheckman.github.io/): computing education research — evidence-based ways to teach software engineering at scale. |
-| <img src="img/timm.jpg" width="40" alt="Tim Menzies"> | **Tim Menzies** (timm@ieee.org) — ACM, IEEE, and ASE Fellow; Editor-in-Chief of the [Automated SE journal](https://link.springer.com/journal/10515) — runs [Irrational Research](https://timm.fyi/irl.html): SE for AI that is data-driven, explainable, and frugal. Co-creator of the [PROMISE](https://arxiv.org/pdf/2501.15662) and [MOOT](https://arxiv.org/pdf/2511.16882) repositories; 24 PhDs graduated, [$19M in grants](https://timm.fyi/research.html), 300+ papers, h-index 75. |
+| <img src="img/timm.jpg" width="100" alt="Tim Menzies"> | **Tim Menzies** (timm@ieee.org) — ACM, IEEE, and ASE Fellow; Editor-in-Chief of the [Automated SE journal](https://link.springer.com/journal/10515) — runs [Irrational Research](https://timm.fyi/irl.html): SE for AI that is data-driven, explainable, and frugal. Co-creator of the [PROMISE](https://arxiv.org/pdf/2501.15662) and [MOOT](https://arxiv.org/pdf/2511.16882) repositories; 24 PhDs graduated, [$19M in grants](https://timm.fyi/research.html), 300+ papers, h-index 75. |
 | <img src="img/wesley.jpg" width="100" alt="Wesley Assunção"> | **Wesley Assunção** (wguezas@ncsu.edu) runs [The Evolve Group](https://wesleyklewerton.github.io/): how big software evolves — product lines, variability, and modernizing legacy systems. |
 {:.plain}

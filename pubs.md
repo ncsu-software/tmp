@@ -1,9 +1,9 @@
 ---
-title: Publications
+title: Recent Papers
 nav_order: 3
 ---
 
-# <i class="fa-solid fa-book-open"></i> Publications
+# <i class="fa-solid fa-book-open"></i> Recent Papers
 
 One recent favorite per faculty member (alphabetical by first
 name). For the full story, see each lab's own site — and for the

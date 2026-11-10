@@ -1,6 +1,6 @@
 ---
 title: Student Life
-nav_order: 6
+nav_order: 5
 ---
 
 # <i class="fa-solid fa-medal"></i> Student Life

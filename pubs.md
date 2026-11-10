@@ -7,7 +7,7 @@ nav_order: 3
 
 One recent favorite per faculty member (alphabetical by first
 name). For the full story, see each lab's own site — and for the
-big picture, see [AI @ SE @ NC State](ai.html).
+big picture, see [AI & SE @ NCSU](ai.html).
 
 - **Bowen Xu**: [Understanding Codebase like a Professional!
   Human-AI Collaboration for Code

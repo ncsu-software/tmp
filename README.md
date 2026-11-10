@@ -12,13 +12,4 @@ permalink: /
 
 | <i class="fa-solid fa-newspaper"></i> news | <i class="fa-solid fa-trophy"></i> honors |
 |------|--------|
-| <img src="img/icse26_backport.jpg" alt="NC State paper on the ICSE 2026 stage in Rio" width="320"><br>**On the ICSE 2026 main stage in Rio**: NC State work on LLM-assisted maintenance of the Robot Operating System (Assunção, Xu, and students). More: [pubs](pubs.html).<br><br>**Honorable Mention at CHI 2026** for ["Where Will They Click Next?"](https://csc.ncsu.edu/2026/04/shahnewaz-leon-sandeep-kuttal-receive-honorable-mention-at-acm-chi/) (Leon & Kuttal) — top of 7,500+ submissions.<br><br>NC State graduate CS [breaks into the US News top 50](https://csc.ncsu.edu/2026/04/grad-programs-climb-atop-the-rankings/), climbing five spots.<br><br>More: [news archive](news.html). | **Tim Menzies**: ACM Fellow, IEEE Fellow, ASE Fellow; Editor-in-Chief, [Automated SE](https://link.springer.com/journal/10515).<br><br>**Bowen Xu**: ACM SIGSOFT Distinguished Paper, ICPC 2026; IEEE TCSE Distinguished Paper, ICSME 2026.<br><br>**HFXE Lab students**: Honorable Mentions at both CHI 2026 and DIS 2026.<br><br>**Katie Stolee**: invited Program Chair, ICSE NIER 2026.<br><br>**Sandeep Kuttal**: invited General Chair, VL/HCC 2026. |
-
-## <i class="fa-solid fa-robot"></i> AI @ SE
-
-How we use AI — and who keeps it honest. Five themes from our
-2025&ndash;26 papers: [AI @ SE @ NC State](ai.html).
-
-## <i class="fa-solid fa-medal"></i> Student Life
-
-What our students have been winning lately: [student life](students.html).
+| <img src="img/icse26_backport.jpg" alt="NC State paper on the ICSE 2026 stage in Rio" width="320"><br>**On the ICSE 2026 main stage in Rio**: NC State work on LLM-assisted maintenance of the Robot Operating System (Assunção, Xu, and students). More: [pubs](pubs.html).<br><br>**Honorable Mention at CHI 2026** for ["Where Will They Click Next?"](https://csc.ncsu.edu/2026/04/shahnewaz-leon-sandeep-kuttal-receive-honorable-mention-at-acm-chi/) (Leon & Kuttal) — top of 7,500+ submissions.<br><br>NC State graduate CS [breaks into the US News top 50](https://csc.ncsu.edu/2026/04/grad-programs-climb-atop-the-rankings/), climbing five spots.<br><br>More: [news archive](news.html). | **Bowen Xu**: ACM SIGSOFT Distinguished Paper, ICPC 2026; IEEE TCSE Distinguished Paper, ICSME 2026.<br><br>**HFXE Lab students**: Honorable Mentions at both CHI 2026 and DIS 2026.<br><br>**Katie Stolee**: invited Program Chair, ICSE NIER 2026.<br><br>**Sandeep Kuttal**: invited General Chair, VL/HCC 2026.<br><br>**Tim Menzies**: inducted into the inaugural class of the [ACM SIGSOFT Software Engineering Academy](https://csc.ncsu.edu/2026/09/williams-menzies-inducted-into-inaugural-class-of-the-acm-sigsoft-software-engineering-academy/) (2026); ACM Fellow, IEEE Fellow, ASE Fellow; Editor-in-Chief, [Automated SE](https://link.springer.com/journal/10515). |

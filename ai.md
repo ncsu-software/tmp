@@ -1,12 +1,13 @@
 ---
-title: AI @ SE
+title: "AI & SE @ NCSU"
 nav_order: 4
 ---
 
-# <i class="fa-solid fa-robot"></i> AI @ SE @ NC State
+# <i class="fa-solid fa-robot"></i> AI & SE @ NCSU
 
-How does a top-five software engineering group use AI? Reading
-our 2025&ndash;26 papers, five themes emerge. One warning, before
+**AI, carefully**: AI enthusiasm plus engineering rigor. That is
+how a top-five software engineering group uses AI. Reading our
+2025&ndash;26 papers, five themes emerge. One warning, before
 the hype: this faculty recently co-edited an IEEE Software
 special issue on [AI and
 productivity](https://doi.org/10.1109/MS.2026.3683172) whose
@@ -64,6 +65,15 @@ HCI side: a sub-10ms behavioral model beat a 32B-parameter LLM at
 predicting developer navigation (VL/HCC 2026).
 
 ## 5. Teaching SE in the AI era
+
+Our stance: *we do not need classes on how to prompt; we need
+classes on how to govern.* In the AI era, our graduates need to:
+
+- understand code more deeply, and how it can be improved;
+- treat testing as imperative when using AI tools;
+- understand both symbolic and subsymbolic (LLM) systems;
+- know when an LLM service can be replaced by something cheaper;
+- integrate AI tools into existing systems.
 
 Heckman's six-year study of a CS2 course traces how students'
 help-seeking moved from forums and office hours to GenAI

@@ -109,3 +109,10 @@ a.site-title {
     &:hover { color: #CC0000; }
   }
 }
+
+// faculty headshots: uniform square, center-cropped
+img.headshot {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}

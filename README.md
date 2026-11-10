@@ -13,14 +13,14 @@ permalink: /
 <table>
   <thead>
     <tr>
-      <th><i class="fa-solid fa-newspaper"></i> news</th>
+      <th><i class="fa-solid fa-newspaper"></i> news &amp; publications</th>
       <th><i class="fa-solid fa-trophy"></i> honors</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td markdown="span"><img src="img/icse26_backport.jpg" alt="NC State paper on the ICSE 2026 stage in Rio" width="320"><br>**On the ICSE 2026 main stage in Rio**: NC State work on LLM-assisted maintenance of the Robot Operating System (Assunção, Xu, and students). More: [pubs](pubs.html).<br><br>**Honorable Mention at CHI 2026** for ["Where Will They Click Next?"](https://csc.ncsu.edu/2026/04/shahnewaz-leon-sandeep-kuttal-receive-honorable-mention-at-acm-chi/) (Leon & Kuttal) — top of 7,500+ submissions.<br><br>More: [news archive](news.html).</td>
-      <td markdown="span">**Bowen Xu**: ACM SIGSOFT Distinguished Paper, ICPC 2026; IEEE TCSE Distinguished Paper, ICSME 2026.<br><br>**Shahnewaz Leon** (PhD student, HFXE): [CHI 2026 Honorable Mention](https://csc.ncsu.edu/2026/04/shahnewaz-leon-sandeep-kuttal-receive-honorable-mention-at-acm-chi/) for "Where Will They Click Next?" — top of 7,500+ submissions.<br><br>**Shandler Mason** (PhD student, HFXE): [DIS 2026 Honorable Mention](https://news.ncsu.edu/2026/05/improving-online-collaboration/) for her remote-collaboration paper.<br><br>**Tim Menzies**: member, inaugural class of the [ACM SIGSOFT Software Engineering Academy](https://csc.ncsu.edu/2026/09/williams-menzies-inducted-into-inaugural-class-of-the-acm-sigsoft-software-engineering-academy/) (2026); ACM Fellow, IEEE Fellow, ASE Fellow.</td>
+      <td markdown="span"><img src="img/icse26_backport.jpg" alt="NC State paper on the ICSE 2026 stage in Rio" width="320"><br>**On the ICSE 2026 main stage in Rio**: NC State work on LLM-assisted maintenance of the Robot Operating System (Assunção, Xu, and students). More: [pubs](pubs.html).<br><br>Fresh this year at top venues:<br><span class="dot">[Toward Agentic Runtime Healing](https://doi.org/10.1145/3800691) (Xu), **CACM**.</span><span class="dot">[How Do Developers Interact with AI?](https://doi.org/10.1145/3808120) (Stolee), **FSE 2026**.</span><span class="dot">[Testing Deep Learning Libraries via Neurosymbolic Constraint Learning](https://damorim.github.io/publications/Naziri_ETAL_ICSE26_1.pdf) (D'Amorim), **ICSE 2026**.</span><span class="dot">On the Time Efficiency of Code Generated and Optimized by LLMs (Menzies), **IEEE TSE**.</span><br>More: [news &amp; publications](pubs.html).</td>
+      <td markdown="span">**Bowen Xu**: ACM SIGSOFT Distinguished Paper, ICPC 2026; IEEE TCSE Distinguished Paper, ICSME 2026.<br><br>**Honorable Mention at CHI 2026** for ["Where Will They Click Next?"](https://csc.ncsu.edu/2026/04/shahnewaz-leon-sandeep-kuttal-receive-honorable-mention-at-acm-chi/) (Shahnewaz Leon & Sandeep Kuttal) — top of 7,500+ submissions.<br><br>**Shandler Mason** (PhD student, HFXE): [DIS 2026 Honorable Mention](https://news.ncsu.edu/2026/05/improving-online-collaboration/) for her remote-collaboration paper.<br><br>**Tim Menzies**: ACM Fellow, IEEE Fellow, ASE Fellow, member of inaugural class of the [ACM SIGSOFT Software Engineering Academy](https://csc.ncsu.edu/2026/09/williams-menzies-inducted-into-inaugural-class-of-the-acm-sigsoft-software-engineering-academy/).</td>
     </tr>
   </tbody>
 </table>

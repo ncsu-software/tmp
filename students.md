@@ -43,7 +43,7 @@ students also presented at ICSE 2026 in Rio — see the
 
 ## Irrational Research Lab (Tim Menzies), 2026
 
-<img src="img/irl.jpg" alt="Irrational Research Lab banner" width="420">
+<img src="img/irl.jpg" alt="Irrational Research Lab banner" width="630">
 
 Small models, sharp answers: [IRL](https://timm.fyi/irl.html)
 studies the uncomfortable finding that smaller, interpretable

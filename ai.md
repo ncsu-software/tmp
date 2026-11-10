@@ -1,9 +1,9 @@
 ---
-title: "AI & SE @ NCSU"
+title: "AI & SE @ NC State"
 nav_order: 4
 ---
 
-# <i class="fa-solid fa-robot"></i> AI & SE @ NCSU
+# <i class="fa-solid fa-robot"></i> AI & SE @ NC State
 
 **AI, carefully**: AI enthusiasm plus engineering rigor. That is
 how a top-five software engineering group uses AI. Reading our

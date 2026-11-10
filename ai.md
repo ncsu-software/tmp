@@ -12,8 +12,9 @@ the hype: this faculty recently co-edited an IEEE Software
 special issue on [AI and
 productivity](https://doi.org/10.1109/MS.2026.3683172) whose
 bottom line was *"AI coding tools are genuinely useful — but they
-do not substitute for human judgment."* That skepticism runs
-through everything below.
+do not substitute for human judgment."* That attitude — that we should carefully
+assess both the benefits and costs of AI — runs through all our
+work.
 
 ## 1. Humans and AI, side by side
 

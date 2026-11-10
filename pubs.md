@@ -9,7 +9,7 @@ One recent favorite per faculty member (alphabetical by first
 name). For the full story, see each lab's own site — and for the
 big picture, see [AI & SE @ NCSU](ai.html).
 
-- **Bowen Xu**: [Understanding Codebase like a Professional!
+- <i class="fa-solid fa-award gold" title="Award-winning paper"></i> **Bowen Xu**: [Understanding Codebase like a Professional!
   Human-AI Collaboration for Code
   Comprehension](https://arxiv.org/abs/2504.04553), ICPC 2026 —
   **ACM SIGSOFT Distinguished Paper Award**.
@@ -26,7 +26,7 @@ big picture, see [AI & SE @ NCSU](ai.html).
   Neurosymbolic Constraint
   Learning](https://damorim.github.io/publications/Naziri_ETAL_ICSE26_1.pdf),
   ICSE 2026.
-- **Sandeep Kuttal**: [Where Will They Click Next? A Social
+- <i class="fa-solid fa-award gold" title="Award-winning paper"></i> **Sandeep Kuttal**: [Where Will They Click Next? A Social
   Foraging Model for Collaborating
   Teams](https://doi.org/10.1145/3772318.3791506), CHI 2026 —
   **Honorable Mention** (top of 7,500+ submissions).

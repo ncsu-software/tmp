@@ -16,6 +16,14 @@ $navy: #021D3B;
   font-size: 20px;
   box-shadow: 0 2px 6px rgba(204, 0, 0, 0.35);
 }
+.fa-solid.gold { // big gold award, floated right of an award-winning paper
+  float: right;
+  margin: 0 0 0.25rem 1rem;
+  font-size: 2.75rem;
+  line-height: 1;
+  color: #D4A017;
+  filter: drop-shadow(0 1px 2px rgba(120, 85, 0, 0.35));
+}
 h1, h2 {
   color: $navy;
 }

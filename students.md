@@ -41,7 +41,41 @@ The lab, at work and (right) decidedly not at work. Evolve
 students also presented at ICSE 2026 in Rio — see the
 [front page](./).
 
+## Irrational Research Lab (Tim Menzies), 2026
+
+<img src="img/irl.jpg" alt="Irrational Research Lab banner" width="420">
+
+Small models, sharp answers: [IRL](https://timm.fyi/irl.html)
+studies the uncomfortable finding that smaller, interpretable
+models repeatedly match or beat larger ones on real SE tasks.
+
+- [Amirali Rayegan](https://amiiralii.github.io/) (PhD candidate)
+  leads the lab's work on explanation &mdash; can causal methods
+  make software analytics more stable and trustworthy? His
+  [Explaining Optimization Heuristics](https://arxiv.org/abs/2509.08667)
+  appeared in **JSS 2026**, and he spoke on shaky causal
+  structures at **ICSE 2026**.
+- [Kishan Kumar Ganguly](https://github.com/KKGanguly) (PhD
+  candidate) leads optimization and testing: simple,
+  sample-efficient optimizers that beat complex ones
+  ([Zoom, Don't Wander](https://arxiv.org/pdf/2605.09658),
+  **SSBSE 2026**) and
+  [data-centric fuzzing for JavaScript engines](https://arxiv.org/abs/2512.18102)
+  (**IST 2026**).
+- [Srinath Srinivasan](https://srina1h.github.io/) (PhD candidate)
+  leads agentic systems &mdash; how far can lightweight LLM agents
+  go without drowning in compute?
+  [Beyond the Prompt](https://arxiv.org/abs/2602.02752) appeared at
+  **MSR 2026**.
+- Kishan and Srinath co-wrote
+  [Can AI be Easy? Lessons Learned from the EZR.py Toolkit](https://timm.fyi/ezr.html)
+  (**SPE 2026**); the lab's [MOOT](https://github.com/timm/moot)
+  benchmark (120+ optimization tasks) appeared at **MSR 2026**.
+- Want in? The lab's semester-long
+  [reading group](https://timm.fyi/teach.html#reading-group) is
+  open to NC State students and industrial partners.
+
 ## Your lab here
 
-Six more labs' worth of wins belong on this page. Faculty: drop
+Five more labs' worth of wins belong on this page. Faculty: drop
 items in the intray.

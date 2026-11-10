@@ -9,6 +9,7 @@ search_enabled: true
 color_scheme: wolfpack
 logo: "/img/logo.png"
 exclude:
+  - intray
   - TODO.md
   - page.md
   - Makefile

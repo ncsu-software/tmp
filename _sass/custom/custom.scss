@@ -123,3 +123,34 @@ img.headshot {
 .service td {
   background: rgba(2, 29, 59, 0.07);
 }
+
+// "we're hiring" starburst: red certificate icon, white label, links to
+// the open professor posting; floats right of each page's h1
+a.hiring {
+  float: right;
+  position: relative;
+  display: block;
+  width: 7rem;
+  height: 7rem;
+  margin: 0 0 0.5rem 1rem;
+  text-align: center;
+  .fa-certificate {
+    display: block;
+    font-size: 7rem;
+    line-height: 1;
+    color: #CC0000;
+    filter: drop-shadow(0 2px 5px rgba(204, 0, 0, 0.4));
+  }
+  span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-12deg);
+    color: #fff;
+    font-weight: 800;
+    font-size: 0.9rem;
+    line-height: 1.15;
+    letter-spacing: 0.02em;
+  }
+  &:hover .fa-certificate { color: #a50000; }
+}

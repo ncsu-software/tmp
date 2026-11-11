@@ -3,6 +3,12 @@ title: "AI & SE @ NC State"
 nav_order: 4
 ---
 
+<a class="hiring" href="https://jobs.ncsu.edu/postings/237085"
+   title="We're hiring: open-call Professor position, NC State Computer Science">
+  <i class="fa-solid fa-certificate"></i>
+  <span>WE'RE<br>HIRING</span>
+</a>
+
 # <i class="fa-solid fa-robot"></i> AI & SE @ NC State
 
 **AI, carefully**: AI enthusiasm plus engineering rigor. That is

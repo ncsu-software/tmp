@@ -1,4 +1,10 @@
 
+<a class="hiring" href="https://jobs.ncsu.edu/postings/237085"
+   title="We're hiring: open-call Professor position, NC State Computer Science">
+  <i class="fa-solid fa-certificate"></i>
+  <span>WE'RE<br>HIRING</span>
+</a>
+
 # TODO
 
 Audience (in order): deans, journalists, visiting committees.

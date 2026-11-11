@@ -3,6 +3,12 @@ title: Student Life
 nav_order: 5
 ---
 
+<a class="hiring" href="https://jobs.ncsu.edu/postings/237085"
+   title="We're hiring: open-call Professor position, NC State Computer Science">
+  <i class="fa-solid fa-certificate"></i>
+  <span>WE'RE<br>HIRING</span>
+</a>
+
 # <i class="fa-solid fa-medal"></i> Student Life
 
 Our students defend PhDs, win paper awards, intern on three

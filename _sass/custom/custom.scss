@@ -154,3 +154,16 @@ a.hiring {
   }
   &:hover .fa-certificate { color: #a50000; }
 }
+
+// LOUDER hiring burst: half again bigger, gently pulsing
+@keyframes hiring-pulse {
+  0%, 100% { transform: scale(1) rotate(0deg); }
+  50%      { transform: scale(1.09) rotate(-3deg); }
+}
+a.hiring {
+  width: 10.5rem;
+  height: 10.5rem;
+  animation: hiring-pulse 1.8s ease-in-out infinite;
+  .fa-certificate { font-size: 10.5rem; }
+  span { font-size: 1.35rem; }
+}

@@ -230,3 +230,15 @@ th .fa-solid:not(.badge40) {
   vertical-align: middle;
   margin-right: 0.35rem;
 }
+
+// p1: gray panel behind the keynotes block; service table back to white
+.keybox {
+  display: block;
+  background: rgba(0, 0, 0, 0.07);
+  border-radius: 6px;
+  padding: 0.6rem 0.7rem;
+  margin-top: 0.5rem;
+}
+.service td {
+  background: #fff;
+}

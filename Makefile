@@ -25,3 +25,10 @@ all: ## stamp README's header (after front matter, before first h1) on every *.m
 	    gawk '/^# /{p=1}p' $$f; } > $$f.tmp \
 	  && mv $$f.tmp $$f; \
 	done
+
+vi: ## edit a file: make vi <file>
+	@vi $(filter-out $@,$(MAKECMDGOALS))
+
+%: # swallow the filename arg of "make vi <file>"; error on real typos
+	@if [ "$(firstword $(MAKECMDGOALS))" != "vi" ]; then \
+	  echo "make: no rule for '$@'"; exit 1; fi

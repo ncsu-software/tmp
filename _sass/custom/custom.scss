@@ -205,3 +205,11 @@ table.bands tr:nth-child(even) td {
 th .fa-solid:not(.badge40) {
   font-size: 1.5em;
 }
+
+// keynote slide thumbnails: stacked, with air between
+table.bands td a img {
+  display: block;
+  margin: 0.5rem 0;
+  max-width: 100%;
+  border: 1px solid rgba(2, 29, 59, 0.2);
+}

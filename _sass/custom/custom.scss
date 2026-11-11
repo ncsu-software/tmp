@@ -167,3 +167,9 @@ a.hiring {
   .fa-certificate { font-size: 10.5rem; }
   span { font-size: 1.35rem; }
 }
+
+// hiring burst: centered, not floated right
+a.hiring {
+  float: none;
+  margin: 0 auto 1rem;
+}

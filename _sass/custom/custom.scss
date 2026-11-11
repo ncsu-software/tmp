@@ -218,3 +218,15 @@ table.bands td a img {
 table.bands td {
   vertical-align: top;
 }
+
+// p1 section icons, round two: big enough to anchor each section
+.fa-solid.badge40 {
+  width: 80px;
+  height: 80px;
+  font-size: 40px;
+}
+th .fa-solid:not(.badge40) {
+  font-size: 2.2em;
+  vertical-align: middle;
+  margin-right: 0.35rem;
+}

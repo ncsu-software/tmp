@@ -242,3 +242,11 @@ th .fa-solid:not(.badge40) {
 .service td {
   background: #fff;
 }
+
+// keynote mic: inline, label sits beside it (was block/centered)
+.fa-solid.keynote-ico {
+  display: inline-block;
+  margin: 0 0.5rem 0 0;
+  vertical-align: middle;
+  text-align: left;
+}

@@ -11,6 +11,7 @@ nav_order: 6
 
 # <i class="fa-solid fa-people-group"></i> Faculty & Labs
 
+
 Alphabetical, by first name. (Bios are drafts — each prof should
 edit their own paragraph.)
 

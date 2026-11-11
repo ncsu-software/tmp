@@ -6,6 +6,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 search_enabled: true
+mermaid:
+  version: "9.4.3"
 color_scheme: wolfpack
 logo: "/img/logo.png"
 exclude:

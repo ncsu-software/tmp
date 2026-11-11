@@ -195,3 +195,13 @@ a.hiring {
 table.bands tr:nth-child(even) td {
   background: rgba(2, 29, 59, 0.07);
 }
+
+// p1 icons 50% bigger: badge discs 40->60px, other header icons 1.5em
+.fa-solid.badge40 {
+  width: 60px;
+  height: 60px;
+  font-size: 30px;
+}
+th .fa-solid:not(.badge40) {
+  font-size: 1.5em;
+}

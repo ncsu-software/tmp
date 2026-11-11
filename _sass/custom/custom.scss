@@ -213,3 +213,8 @@ table.bands td a img {
   max-width: 100%;
   border: 1px solid rgba(2, 29, 59, 0.2);
 }
+
+// keynotes: headshots hug the top of their row (plain sets middle)
+table.bands td {
+  vertical-align: top;
+}

@@ -250,3 +250,12 @@ th .fa-solid:not(.badge40) {
   vertical-align: middle;
   text-align: left;
 }
+
+// keynotes header: icon + label centered as one unit, black rule under
+.keyhead {
+  display: block;
+  text-align: center;
+  padding-bottom: 0.35rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 2px solid #000;
+}

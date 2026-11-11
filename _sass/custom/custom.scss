@@ -117,3 +117,9 @@ img.headshot {
   object-fit: cover;
   object-position: center top; // tall portraits: keep the head, crop the torso
 }
+
+// landing page: faint navy wash on the pitch and service tables
+.hero td,
+.service td {
+  background: rgba(2, 29, 59, 0.07);
+}

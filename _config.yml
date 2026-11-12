@@ -11,6 +11,7 @@ mermaid:
 color_scheme: wolfpack
 logo: "/img/logo.png"
 exclude:
+  - vendor
   - intray
   - TODO.md
   - page.md

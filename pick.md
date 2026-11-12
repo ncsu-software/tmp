@@ -15,19 +15,20 @@ Three questions, eight answers, no wrong turns.
 
 
 ```mermaid
-flowchart TD
-  A{What pulls you in?}
-  A -->|people| B{which people?}
-  A -->|code| C{what kind of code?}
-  A -->|AI itself| D{fix it or shrink it?}
-  B -->|students learning CS| SH[Sarah Heckman<br>how to teach SE at scale]
-  B -->|devs hunting through code| KS[Katie Stolee<br>code search & comprehension]
-  B -->|teams, with AI at the table| SK[Sandeep Kuttal<br>human factors, HFXE]
-  C -->|it drives a robot| JP[John-Paul Ore<br>robust robot software]
-  C -->|it is big and old| WA[Wesley Assunção<br>modernization & product lines]
-  C -->|it has bugs| MD[Marcelo D'Amorim<br>testing & reliability]
-  D -->|make it trustworthy| BX[Bowen Xu<br>LLM security & code AI]
-  D -->|make it tiny & explainable| TM[Tim Menzies<br>frugal AI & optimization]
+%%{init: {'themeVariables': {'fontSize': '22px'}, 'flowchart': {'nodeSpacing': 18, 'rankSpacing': 28}}}%%
+flowchart LR
+  A{What<br>pulls<br>you in?}
+  A -->|people| B{which<br>people?}
+  A -->|code| C{what kind<br>of code?}
+  A -->|AI itself| D{fix it or<br>shrink it?}
+  B -->|students learning<br>with GenAI| SH[<b>Sarah Heckman</b><br>CS education<br>in the AI era]
+  B -->|developers working<br>beside AI| KS[<b>Katie Stolee</b><br>how developers<br>program with AI]
+  B -->|teams, with AI<br>at the table| SK[<b>Sandeep Kuttal</b><br>human factors,<br>HFXE]
+  C -->|big, old, needs<br>upgrading| WA[<b>Wesley Assunção</b><br>AI agents for<br>maintenance]
+  C -->|it has bugs, even<br>the AI libraries| MD[<b>Marcelo D'Amorim</b><br>testing &<br>reliability]
+  C -->|can we trust what<br>the LLM wrote?| JP[<b>John-Paul Ore</b><br>dependable<br>LLM code]
+  D -->|make it safe:<br>backdoors, privacy| BX[<b>Bowen Xu</b><br>LLM security<br>& code AI]
+  D -->|make it tiny &<br>explainable| TM[<b>Tim Menzies</b><br>frugal AI &<br>optimization]
 ```
 
 Found your person? Email, bio, and lab link: [faculty](faculty.html).

@@ -11,13 +11,36 @@ nav_order: 5
 
 # <i class="fa-solid fa-medal"></i> Student Life
 
+<div class="marquee">
+  <figure class="on"><img src="img/marquee/graduation.jpg" alt="PhD graduation day"><figcaption>PhD graduation day</figcaption></figure>
+  <figure><img src="img/marquee/wesley_photo_100401.jpg" alt="Above Rio, between ICSE 2026 sessions" loading="lazy"><figcaption>Above Rio, between ICSE 2026 sessions</figcaption></figure>
+  <figure><img src="img/marquee/conference_lunch.jpg" alt="Lunch between conference sessions" loading="lazy"><figcaption>Lunch between conference sessions</figcaption></figure>
+  <figure><img src="img/marquee/group_dinner.jpg" alt="Group dinner" loading="lazy"><figcaption>Group dinner</figcaption></figure>
+  <figure><img src="img/marquee/kishan_ssbse26.jpg" alt="Kishan Kumar Ganguly presents Zoom, Don't Wander at SSBSE 2026" loading="lazy"><figcaption>Kishan Kumar Ganguly presents Zoom, Don't Wander at SSBSE 2026</figcaption></figure>
+  <figure><img src="img/marquee/hotel_hacking.jpg" alt="Deadline night: hacking in a conference hotel room" loading="lazy"><figcaption>Deadline night: hacking in a conference hotel room</figcaption></figure>
+  <figure><img src="img/marquee/sandeep_photo_17.jpg" alt="Shahnewaz Leon's PhD defense, September 2026" loading="lazy"><figcaption>Shahnewaz Leon's PhD defense, September 2026</figcaption></figure>
+  <button type="button" class="marquee-arrow prev" aria-label="Previous photo">&#10094;</button>
+  <button type="button" class="marquee-arrow next" aria-label="Next photo">&#10095;</button>
+  <div class="marquee-dots"></div>
+</div>
+{% include marquee_script.html %}
+
 Our students defend PhDs, win paper awards, intern on three
 continents, and occasionally climb a mountain. Highlights by lab
 (every lab: send us your wins!).
 
-## HFXE Lab (Sandeep Kuttal), 2026
+| <i class="fa-solid fa-flask badge40"></i> labs | <i class="fa-solid fa-user-graduate badge40"></i> alumni | <i class="fa-solid fa-briefcase badge40"></i> internships |
+|----------------|---------------|--------------|
+| <span class="dot">[HFXE Lab](#hfxe) (Sandeep Kuttal)</span><span class="dot">[The Evolve Group](#evolve) (Wesley Assunção)</span><span class="dot">[Irrational Research Lab](#irl) (Tim Menzies)</span><span class="dot">[SoftMax Lab](#softmax) (Bowen Xu)</span> | <span class="dot">Our students go **EVERYWHERE**.</span><span class="dot">See [where they are now](alumni.html).</span> | <span class="dot">Industry chases our students for summer positions.</span><span class="dot">See [who went where](internships.html).</span> |
+{: .hero}
 
-<img src="img/hfxe_poster.png" alt="HFXE student presenting her poster" width="420">
+## HFXE Lab (Sandeep Kuttal), 2026
+{: #hfxe}
+
+<div class="faces right col">
+  <div class="face"><img src="img/students/shandler-mason.jpg" alt="Shandler Mason"><b>Shandler Mason</b><span>PhD 2026</span></div>
+  <div class="face"><img src="img/students/leon-shahnewaz.jpg" alt="Shahnewaz Leon"><b>Shahnewaz Leon</b><span>PhD 2026</span></div>
+</div>
 
 - Shandler Mason earned her PhD and joined Norfolk State as
   tenure-track faculty
@@ -39,17 +62,19 @@ continents, and occasionally climb a mountain. Highlights by lab
   lab students presented **seven papers at HCII 2026**.
 
 ## The Evolve Group (Wesley Assunção)
+{: #evolve}
 
-<img src="img/evolve_lab.jpg" alt="Evolve group lab photo" width="420">
-<img src="img/evolve_hike.jpg" alt="Evolve group members hiking" width="276">
-
-The lab, at work and (right) decidedly not at work. Evolve
-students also presented at ICSE 2026 in Rio — see the
+Evolve students presented at ICSE 2026 in Rio — see the
 [front page](./).
 
 ## Irrational Research Lab (Tim Menzies), 2026
+{: #irl}
 
-<img src="img/irl.jpg" alt="Irrational Research Lab banner" width="630">
+<div class="faces right col">
+  <a class="face" href="https://amiiralii.github.io/"><img src="img/students/amirali-rayegan.jpg" alt="Amirali Rayegan"><b>Amirali Rayegan</b><span>IRL</span></a>
+  <a class="face" href="https://github.com/KKGanguly"><img src="img/students/kishan-kumar-ganguly.jpg" alt="Kishan Kumar Ganguly"><b>Kishan Kumar Ganguly</b><span>IRL</span></a>
+  <a class="face" href="https://srina1h.github.io/"><img src="img/students/srinath-srinivasan.jpg" alt="Srinath Srinivasan"><b>Srinath Srinivasan</b><span>IRL</span></a>
+</div>
 
 Small models, sharp answers: [IRL](https://timm.fyi/irl.html)
 studies the uncomfortable finding that smaller, interpretable
@@ -80,6 +105,28 @@ models repeatedly match or beat larger ones on real SE tasks.
 - Want in? The lab's semester-long
   [reading group](https://timm.fyi/teach.html#reading-group) is
   open to NC State students and industrial partners.
+
+## SoftMax Lab (Bowen Xu)
+{: #softmax}
+
+<div class="faces right">
+  <a class="face" href="https://ncsu-softmax.github.io/people.html"><img src="img/students/aditya-bhardwaj.jpg" alt="Aditya Bhardwaj"><b>Aditya Bhardwaj</b><span>SoftMax</span></a>
+  <a class="face" href="https://ncsu-softmax.github.io/people.html"><img src="img/students/hua-yang.jpg" alt="Hua Yang"><b>Hua Yang</b><span>SoftMax</span></a>
+  <a class="face" href="https://ncsu-softmax.github.io/people.html"><img src="img/students/md-nazmul-haque.jpg" alt="Md Nazmul Haque"><b>Md Nazmul Haque</b><span>SoftMax</span></a>
+  <a class="face" href="https://ncsu-softmax.github.io/people.html"><img src="img/students/quoc-hung-le.jpg" alt="Quoc Hung Le"><b>Quoc Hung Le</b><span>SoftMax</span></a>
+  <a class="face" href="https://ncsu-softmax.github.io/people.html"><img src="img/students/sen-fang.jpg" alt="Sen Fang"><b>Sen Fang</b><span>SoftMax</span></a>
+  <a class="face" href="https://ncsu-softmax.github.io/people.html"><img src="img/students/weiyuan-ding.jpg" alt="Weiyuan Ding"><b>Weiyuan Ding</b><span>SoftMax</span></a>
+  <a class="face" href="https://ncsu-softmax.github.io/people.html"><img src="img/students/xiang-lan.jpg" alt="Xiang Lan"><b>Xiang Lan</b><span>SoftMax</span></a>
+  <a class="face" href="https://ncsu-softmax.github.io/people.html"><img src="img/students/yinan-wu.jpg" alt="Yinan Wu"><b>Yinan Wu</b><span>SoftMax</span></a>
+  <a class="face" href="https://ncsu-softmax.github.io/people.html"><img src="img/students/zhezhen-cao.jpg" alt="Zhezhen (Justin) Cao"><b>Zhezhen (Justin) Cao</b><span>SoftMax</span></a>
+</div>
+
+[SoftMax](https://ncsu-softmax.github.io/) works on trustworthy AI
+for software engineering: human-AI collaboration, robustness and
+privacy of code LLMs, backdoor and vulnerability detection. This
+year the lab took an **ACM SIGSOFT Distinguished Paper Award at
+ICPC 2026** and an **IEEE TCSE Distinguished Paper Award at ICSME
+2026** (see [papers](pubs.html)).
 
 ## Your lab here
 

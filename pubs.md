@@ -1,6 +1,6 @@
 ---
 title: News & Publications
-nav_order: 3
+nav_order: 8
 ---
 
 <a class="hiring" href="https://jobs.ncsu.edu/postings/237085"

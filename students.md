@@ -1,6 +1,7 @@
 ---
 title: Student Life
 nav_order: 5
+has_children: true
 ---
 
 <a class="hiring" href="https://jobs.ncsu.edu/postings/237085"

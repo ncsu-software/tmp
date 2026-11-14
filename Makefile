@@ -15,7 +15,8 @@ push: ## save
 view: ## build+serve locally, open browser on the top page when ready
 	( until curl -so /dev/null http://127.0.0.1:4000/tmp/; do sleep 1; done; \
 	  open http://127.0.0.1:4000/tmp/ ) &
-	PATH="/opt/homebrew/opt/ruby@3.4/bin:$$PATH" bundle exec jekyll serve
+	PATH="$$(ls -d /opt/homebrew/opt/ruby@3.3/bin /opt/homebrew/opt/ruby@3.4/bin 2>/dev/null | head -1):$$PATH" \
+	  bundle exec jekyll serve
 
 all: ## stamp README's header (after front matter, before first h1) on every *.md
 	for f in *.md; do \

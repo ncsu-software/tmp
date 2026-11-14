@@ -6,9 +6,9 @@ nav_order: 1
 
 # <i class="fa-solid fa-tree-city"></i> Why Live in Raleigh?
 
-**It's affordable.** Cost of living sits at the [national
-average](https://www.salary.com/research/cost-of-living/raleigh-nc)
-(housing ~14% below) — roughly **40% cheaper than Boston**, and
+**It's affordable.** Cost of living sits at the national
+average
+(housing ~14% below) — which is around **40% cheaper than Boston**, and
 far below the Bay Area or Seattle.
 
 **Four gentle seasons.** Humid subtropical: long springs and

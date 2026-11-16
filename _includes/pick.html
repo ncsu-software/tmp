@@ -11,13 +11,13 @@
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   var D = {{ site.data.topics | jsonify }};
-  var P = D.profs;
+  var P = D.profs, IMG = "{{ '/img/' | relative_url }}";
   var card = document.getElementById("pick-card");
   var esc = function (s) { return String(s).replace(/[&<>"]/g, function (c) { return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); };
   var fr = null, fc = null, m = document.getElementById("pick-matrix");
   function show(j) {
     var p = P[j], kind = {n: "neural AI", s: "symbolic AI", ns: "neural and symbolic AI"}[p.ai];
-    card.innerHTML = '<div class="nm">' + esc(p.name) + '</div><div class="muted">' + esc(p.lab) + ' · ' + esc(p.zone) +
+    card.innerHTML = '<img class="headshot" src="' + IMG + esc(p.img) + '" alt="' + esc(p.name) + '"><div class="nm">' + esc(p.name) + '</div><div class="muted">' + esc(p.lab) + ' · ' + esc(p.zone) +
       (kind ? ' · ' + kind : '') + '</div><p>' + esc(p.text) + '</p><div>' +
       p.tags.map(function (t) { return '<span class="chip">' + esc(t) + '</span>'; }).join('') +
       '</div><p><a href="' + esc(p.url) + '">Visit the lab site</a></p>';

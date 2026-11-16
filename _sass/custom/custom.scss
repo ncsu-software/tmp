@@ -585,6 +585,8 @@ a.hiring {
   max-width: 680px;
   margin: 0 auto 1.5rem;
   .nm { font-size: 1.15rem; font-weight: 700; color: $navy; }
+  img.headshot { float: left; margin: 0.2rem 1rem 0.5rem 0; border-radius: 6px; }
+  &::after { content: ""; display: block; clear: both; }
   .muted, &> .muted { color: #666; font-size: 0.85rem; }
   p { margin: 0.4rem 0; }
 }

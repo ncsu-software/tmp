@@ -3,35 +3,35 @@
 # x,y = spot in the Venn (680x500 box). Circles: AI (260,190), quality (420,190),
 # people (340,330), radius 155.
 profs:
-  - {k: bx, name: "Bowen Xu", lab: "SoftMax", zone: "AI and analytics", ai: n, x: 185, y: 150,
+  - {k: bx, img: "bowen.png", name: "Bowen Xu", lab: "SoftMax", zone: "AI and analytics", ai: n, x: 185, y: 150,
      url: "https://ncsu-softmax.github.io/",
      text: "Make code AI safe: backdoors, privacy, and the tools that read, write, and review code.",
      tags: ["LLM security", "code intelligence", "mining repositories"]}
-  - {k: jp, name: "John-Paul Ore", lab: "Robust Robots", zone: "AI and analytics + code quality", ai: n, x: 340, y: 140,
+  - {k: jp, img: "johnpaul.jpg", name: "John-Paul Ore", lab: "Robust Robots", zone: "AI and analytics + code quality", ai: n, x: 340, y: 140,
      url: "https://jpwco.com/",
      text: "Can we trust what the LLM wrote? Dependable code for real machines, such as unit-mismatch bugs in robots.",
      tags: ["trust in LLM code", "robotics", "testing"]}
-  - {k: ks, name: "Katie Stolee", lab: "The Perspective People", zone: "All three", ai: n, x: 340, y: 235,
+  - {k: ks, img: "katie.png", name: "Katie Stolee", lab: "The Perspective People", zone: "All three", ai: n, x: 340, y: 235,
      url: "https://kstolee.github.io/",
      text: "How developers search, understand, and reuse code, now with AI beside them, plus tools that do it better.",
      tags: ["code search and reuse", "program repair", "developer experience", "human-AI programming"]}
-  - {k: md, name: "Marcelo D'Amorim", lab: "SWAT: SoftWare Analysis and Testing", zone: "Code quality", ai: "", x: 495, y: 165,
+  - {k: md, img: "marcelo.png", name: "Marcelo D'Amorim", lab: "SWAT: SoftWare Analysis and Testing", zone: "Code quality", ai: "", x: 495, y: 165,
      url: "https://damorim.github.io/",
      text: "Find bugs before users do: systematic testing, debugging, and flaky tests, including bugs in AI libraries.",
      tags: ["testing", "debugging", "reliability"]}
-  - {k: sk, name: "Sandeep Kuttal", lab: "HFXE: Human Factors + Experience Engineering", zone: "AI and analytics + people", ai: n, x: 255, y: 305,
+  - {k: sk, img: "sandeep.png", name: "Sandeep Kuttal", lab: "HFXE: Human Factors + Experience Engineering", zone: "AI and analytics + people", ai: n, x: 255, y: 305,
      url: "https://skuttal.github.io/skk/research.html",
      text: "The human side of programming: how teams work with AI at the table, and how that partnership makes them better.",
      tags: ["human factors", "human-AI teaming", "developer experience"]}
-  - {k: sh, name: "Sarah Heckman", lab: "Super SE Teaching Lab", zone: "AI and analytics + people", ai: n, x: 255, y: 335,
+  - {k: sh, img: "sarah.jpg", name: "Sarah Heckman", lab: "Super SE Teaching Lab", zone: "AI and analytics + people", ai: n, x: 255, y: 335,
      url: "https://sheckman.github.io/",
      text: "Evidence-based ways to teach software engineering at scale, now that students learn with GenAI.",
      tags: ["CS education", "teaching at scale", "students and AI"]}
-  - {k: tm, name: "Tim Menzies", lab: "Irrational Research", zone: "AI and analytics", ai: ns, x: 185, y: 180,
+  - {k: tm, img: "timm.jpg", name: "Tim Menzies", lab: "Irrational Research", zone: "AI and analytics", ai: ns, x: 185, y: 180,
      url: "https://timm.fyi/irl.html",
      text: "AI and analytics for SE in general, with LLMs as one part. Data mining, optimization, and active learning that get good results from little data, few labels, and little code, while staying explainable and fair.",
      tags: ["data mining", "optimization", "active learning", "explainable and fair AI", "frugal AI"]}
-  - {k: wa, name: "Wesley Assunção", lab: "The Evolve Group", zone: "All three", ai: ns, x: 340, y: 262,
+  - {k: wa, img: "wesley.jpg", name: "Wesley Assunção", lab: "The Evolve Group", zone: "All three", ai: ns, x: 340, y: 262,
      url: "https://wesleyklewerton.github.io/",
      text: "Big, old software that needs upgrading: AI agents and search-based methods for maintenance, product lines, and modernization, plus some of the socio-technical side.",
      tags: ["AI agents", "search-based SE", "legacy modernization", "socio-technical"]}

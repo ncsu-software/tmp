@@ -1,0 +1,86 @@
+{% comment %} Pick Your Professor: Venn + detail card + topic matrix.
+   Data: _data/topics.yml. NB: theme minifies HTML to one line, so no // comments in the script. {% endcomment %}
+<p class="pick-hint"><i class="fa-solid fa-hand-pointer"></i> Click a name, topic, or column to focus it</p>
+
+<svg class="pick-venn" viewBox="0 0 680 500" xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Venn diagram of SE faculty across AI and analytics, code quality, and people">
+  <circle cx="260" cy="190" r="155" fill="#7F77DD" fill-opacity="0.22" stroke="#534AB7"/>
+  <circle cx="420" cy="190" r="155" fill="#1D9E75" fill-opacity="0.22" stroke="#0F6E56"/>
+  <circle cx="340" cy="330" r="155" fill="#D85A30" fill-opacity="0.22" stroke="#993C1D"/>
+  <text class="vh" x="90" y="35">AI and analytics</text>
+  <text class="vh" x="570" y="35" text-anchor="end">Code quality</text>
+  <text class="vh" x="340" y="495" text-anchor="middle">People</text>
+  <text class="vs" x="340" y="420" text-anchor="middle">(open: we're hiring)</text>
+  <g id="pick-names"></g>
+</svg>
+<div class="pick-legend">
+  <span><b class="dot-n"></b> neural AI (LLMs, deep learning)</span>
+  <span><b class="dot-s"></b> symbolic AI (rules, search, optimization)</span>
+</div>
+<div id="pick-card"><span class="muted">Click a name to see their lab, focus, and core topics.</span></div>
+
+<h2>Who works on what?</h2>
+<table id="pick-matrix" class="pick-matrix"></table>
+<div class="pick-legend">
+  <span><b class="l1"></b> some</span><span><b class="l2"></b> active</span><span><b class="l3"></b> core</span>
+  <span>Rows sorted by total interest.</span>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var D = {{ site.data.topics | jsonify }};
+  var P = D.profs, NS = "http://www.w3.org/2000/svg";
+  var card = document.getElementById("pick-card"), G = document.getElementById("pick-names");
+  var esc = function (s) { return String(s).replace(/[&<>"]/g, function (c) { return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); };
+  var fr = null, fc = null, m = document.getElementById("pick-matrix");
+  function show(j) {
+    var p = P[j], kind = {n: "neural AI", s: "symbolic AI", ns: "neural and symbolic AI"}[p.ai];
+    card.innerHTML = '<div class="nm">' + esc(p.name) + '</div><div class="muted">' + esc(p.lab) + ' · ' + esc(p.zone) +
+      (kind ? ' · ' + kind : '') + '</div><p>' + esc(p.text) + '</p><div>' +
+      p.tags.map(function (t) { return '<span class="chip">' + esc(t) + '</span>'; }).join('') +
+      '</div><p><a href="' + esc(p.url) + '">Visit the lab site</a></p>';
+    document.querySelectorAll("#pick-names g").forEach(function (g) { g.classList.toggle("sel", +g.dataset.j === j); });
+  }
+  P.forEach(function (p, j) {
+    var g = document.createElementNS(NS, "g"); g.dataset.j = j;
+    var t = document.createElementNS(NS, "text");
+    t.setAttribute("x", p.x); t.setAttribute("y", p.y); t.setAttribute("text-anchor", "middle");
+    t.textContent = p.name; g.appendChild(t); G.appendChild(g);
+    var dx = p.x + t.getComputedTextLength() / 2 + 9;
+    (p.ai || "").split("").forEach(function (c) {
+      var o = document.createElementNS(NS, "circle");
+      o.setAttribute("cx", dx); o.setAttribute("cy", p.y - 5); o.setAttribute("r", 5);
+      o.setAttribute("fill", c === "n" ? "#378ADD" : "#EF9F27"); g.appendChild(o); dx += 12;
+    });
+    g.addEventListener("click", function () { show(j); fc = (fc === j ? null : j); fr = null; draw(); });
+  });
+  var sum = function (v) { return v.reduce(function (a, b) { return a + b; }, 0); };
+  var T = D.topics.slice().sort(function (a, b) { return sum(b.s) - sum(a.s); });
+  var h = '<thead><tr><th></th><th class="sum">sum</th>' + P.map(function (p, j) {
+    return '<th class="p" data-j="' + j + '"><span>' + esc(p.name) + '</span></th>'; }).join('') + '</tr></thead><tbody>';
+  T.forEach(function (r, i) {
+    h += '<tr data-i="' + i + '"><td class="t">' + esc(r.t) + '</td><td class="sum">' + sum(r.s) + '</td>' +
+      r.s.map(function (x, j) { return '<td class="c' + (x ? ' l' + x : '') + '" data-j="' + j + '" title="' +
+        esc(P[j].name) + ': ' + ["none", "some", "active", "core"][x] + '"></td>'; }).join('') + '</tr>';
+  });
+  m.innerHTML = h + '</tbody>';
+  function draw() {
+    m.querySelectorAll("tr[data-i]").forEach(function (r) {
+      var i = +r.dataset.i;
+      r.classList.toggle("dim", fc !== null ? T[i].s[fc] === 0 : (fr !== null && i !== fr));
+      r.querySelector(".t").classList.toggle("on", i === fr);
+    });
+    m.querySelectorAll("td.c").forEach(function (c) {
+      var j = +c.dataset.j;
+      c.classList.toggle("dim", (fr !== null && T[fr].s[j] === 0) || (fc !== null && j !== fc));
+    });
+    m.querySelectorAll("th.p").forEach(function (t) {
+      var j = +t.dataset.j; t.classList.toggle("on", j === fc || (fr !== null && T[fr].s[j] === 3));
+    });
+  }
+  m.addEventListener("click", function (e) {
+    var t = e.target.closest("td.t"), p = e.target.closest("th.p");
+    if (t) { var i = +t.parentNode.dataset.i; fr = (fr === i ? null : i); fc = null; draw(); }
+    if (p) { var j = +p.dataset.j; fc = (fc === j ? null : j); fr = null; show(j); draw(); }
+  });
+});</script>

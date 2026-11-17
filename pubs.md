@@ -45,7 +45,7 @@ big picture, see [AI & SE @ NC State](ai.html).
   Foraging Model for Collaborating
   Teams](https://doi.org/10.1145/3772318.3791506), CHI 2026 —
   **Honorable Mention** (top of 7,500+ submissions).
-- **Sandeep Kuttal**: [Equity by Design: A New HCI Method for
+- <i class="fa-solid fa-award gold" title="Award-winning paper"></i> **Sandeep Kuttal**: [Equity by Design: A New HCI Method for
   Surfacing Inclusivity
   Issues](https://news.ncsu.edu/2026/05/improving-online-collaboration/),
   DIS 2026 — **Honorable Mention**.

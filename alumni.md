@@ -61,3 +61,4 @@ PhD graduates, and where they are now.
 | 2014 | Abdel Salam Sayyad | Birzeit U. |
 |  | Fayola Peters | J&amp;J |
 |  | Joe Krall | Cloudvirga |
+{: .tight}

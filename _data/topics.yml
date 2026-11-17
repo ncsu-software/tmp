@@ -40,7 +40,7 @@ profs:
 #             bx jp ks md sk sh tm wa
 topics:
   - {t: "LLMs that write and review code",        s: [3, 2, 2, 1, 1, 1, 0, 2]}
-  - {t: "AI agents for SE tasks",                 s: [2, 0, 1, 0, 1, 0, 1, 3]}
+  - {t: "AI agents for SE tasks",                 s: [2, 0, 1, 0, 2, 0, 1, 3]}
   - {t: "Security and privacy of code AI",        s: [3, 1, 0, 0, 0, 0, 0, 0]}
   - {t: "Trust in LLM-generated code",            s: [2, 3, 2, 2, 1, 0, 0, 1]}
   - {t: "Testing and debugging",                  s: [1, 2, 2, 3, 0, 0, 0, 1]}

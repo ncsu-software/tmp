@@ -618,3 +618,22 @@ table.pick-matrix {
   td.c.l3 { background: #A32D2D; }
   tr.dim td.c, td.c.dim { opacity: 0.15; }
 }
+
+// .tight: compact table rows (e.g. alumni roster)
+table.tight td, table.tight th {
+  padding-top: 0.15rem;
+  padding-bottom: 0.15rem;
+}
+
+// site url in small type under the sidebar logo
+a.site-title {
+  flex-direction: column;
+}
+a.site-title::after {
+  content: "ncsu.software";
+  display: block;
+  text-align: center;
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  color: rgba(2, 29, 59, 0.55);
+}
